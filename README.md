@@ -8,11 +8,11 @@ The video is in french 🇫🇷 but you can get a lot from just watching.
 
 ## Here is the settings I use now : **settings.json**
 
-````
+```JSON
 {
-    /* The zoom level is ajusted for the iMac 21 inches if you ar using a laptop 13", 14", 15", 16" or 17" your zoom level should be incrised */
+    /* The zoom level is ajusted for the iMac 21 inches. If you are using a laptop 13", 14", 15", 16" or 17" your zoom level should be incrised. */
     "window.zoomLevel": 0.25,
-    /* When I need the menimap I show it but by default it is hidden */
+    /* The minimap is hidden by default to make more room on the screen. */
     "editor.minimap.enabled": false,
     "editor.formatOnSave": false,
     "editor.formatOnPaste": false,
@@ -54,8 +54,7 @@ The video is in french 🇫🇷 but you can get a lot from just watching.
 
 ## This is my keybindings : keybindings.json
 
-````
-// Placer vos combinaisons de touches dans ce fichier pour remplacer les valeurs par défaut
+```JSON
 [
     /* hide the left bars quickly */
     {
@@ -68,13 +67,13 @@ The video is in french 🇫🇷 but you can get a lot from just watching.
         "command": "editor.action.smartSelect.expand",
         "when": "editorTextFocus",
     },
-    /* select the same in the faster and modify in multiple lines  */
+    /* select the same items in the faster way and modify it in multiple lines  */
     {
         "key": "ctrl+shift+d",
         "command": "editor.action.addSelectionToNextFindMatch",
         "when": "editorFocus",
     },
-    /* quick show the list of commandes */
+    /* quick show the list of commands */
     {
         "key": "ctrl+p",
         "command": "workbench.action.showCommands",
