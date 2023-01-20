@@ -4,7 +4,7 @@ A set of custom settings inspired from watching this video from [Grafikart](http
 
 [![Ma-configuration-Visual-Studio-Code-YouTube](https://user-images.githubusercontent.com/20024130/213687387-1e54e9ff-4a21-4891-8f82-040179c4a436.png)](https://www.youtube.com/watch?v=GFmE5_8xypY)
 
-The video is in french but you can get a lot from just watching. 
+The video is in french 🇫🇷 but you can get a lot from just watching.
 
 ## Here is the settings I use now : **settings.json**
 
