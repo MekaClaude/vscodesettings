@@ -6,7 +6,7 @@ A set of custom settings inspired from watching this video from [Grafikart](http
 
 The video is in french 🇫🇷 but you can get a lot from just watching.
 
-## Here is the settings I use now : **settings.json**
+## The settings I use now : **settings.json**
 
 ```JSON
 {
@@ -52,7 +52,7 @@ The video is in french 🇫🇷 but you can get a lot from just watching.
 
 ````
 
-## This is my keybindings : keybindings.json
+## My keybindings : keybindings.json
 
 ```JSON
 [
